@@ -1,6 +1,7 @@
 
 /*
     https://practice.geeksforgeeks.org/problems/find-duplicates-in-an-array/1/?category[]=Arrays&category[]=Arrays&problemType=functional&page=1&sortBy=submissions&query=category[]ArraysproblemTypefunctionalpage1sortBysubmissionscategory[]Arrays
+    Asked in Amazon, D-E-Shaw, Flipkart, Paytm, Qualcomm, Zoho
 */
 
 // Approach - 1 (self), TC = O(n), SC = O(n)
