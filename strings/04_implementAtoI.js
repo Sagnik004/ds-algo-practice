@@ -45,5 +45,5 @@ function atoi(str) {
   return formattedNum;
 }
 
-console.log(atoi('123'));
-console.log(atoi('21a'));
+console.log(atoi("123"));
+console.log(atoi("21a"));
